@@ -6,4 +6,4 @@ and add this JVM argument in the VM options section after -ea
 build project > run
 
 - Json management
-- OAuth code authorization
+- OAuth Authorization Code grant type
